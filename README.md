@@ -1,4 +1,4 @@
-# IKIWISI: An Interactive Visual Pattern Former
+# IKIWISI: An Interactive Visual Pattern Generator
 
 IKIWISI (pronounced "icky-wissy") stands for "I Know It When I See It." It is an interactive visual pattern-forming tool designed to evaluate the reliability of Vision-Language Models (VLMs) in multi-object recognition tasks, especially when ground truth is unavailable. Inspired by human visual perception, IKIWISI simplifies and enhances the process of model evaluation through binary heatmaps and user-friendly interactions.
 
