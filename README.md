@@ -1,4 +1,5 @@
-# IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth (DIS'25 Best Paper Honorable Mention)
+# IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth 
+(DIS'25 Best Paper Honorable Mention)
 
 > “I Know It When I See It” — a visual, human-centered tool for evaluating the reliability of Vision–Language Models (VLMs) **when ground truth is unavailable**.
 
@@ -49,7 +50,7 @@ pip install dash dash-bootstrap-components dash-draggable plotly pandas numpy na
 python dashboard_for_study_v3.py
 ```
 
-# Then open your browser at http://127.0.0.1:8050/
+Then open your browser at http://127.0.0.1:8050/
 (change the port number as needed)
 
 ## Evaluation
@@ -58,9 +59,7 @@ IKIWISI was validated through an IRB-approved user study (N = 15) with participa
 Key findings:
 
 - Users’ reliability ratings strongly correlated (R² = 0.83 – 0.90) with ground-truth F₁-scores
-
 - Participants reached consistent conclusions after inspecting < 15 % of heatmap cells
-
 - Distinct visual patterns (outliers, uniform rows, checkerboards) shaped user trust and speed of judgment
 
 IKIWISI demonstrates that humans can visually audit model reliability — bridging quantitative evaluation and perceptual understanding.
