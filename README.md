@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong style="color:#ff69b4;">🏅 ACM DIS 2025 — Best Paper Honorable Mention</strong><br>
+  <strong style="color:#ff69b4;"> ACM DIS 2025 — Best Paper Honorable Mention</strong><br>
   <em>Funchal, Portugal · July 2025</em>
 </p>
 
