@@ -21,16 +21,6 @@
 
 ---
 
-<p align="center">
-  <img src="assets/ikiwisi_teaser.png" alt="IKIWISI teaser figure" width="800"/>
-</p>
-
-<p align="center">
-  <em>Figure: The IKIWISI interface enables users to evaluate Vision–Language Models through visual patterns — model and video selection (A–C), keyframes (D), object selection (E), and a binary heatmap (F) that captures presence (green) and absence (red) of objects over time. Users can click to inspect, correct, and rate models interactively.</em>
-</p>
-
----
-
 ## Overview
 
 **IKIWISI** (“I Know It When I See It”) is an interactive, human-in-the-loop framework that enables users to *see* how well vision–language models align with human perception.  
