@@ -1,21 +1,28 @@
-# IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth 
-(DIS'25 Best Paper Honorable Mention)
+<h3 align="center">👁️‍🗨️ IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision–Language Models Without Ground Truth</h3>
 
-> “I Know It When I See It” — a visual, human-centered tool for evaluating the reliability of Vision–Language Models (VLMs) **when ground truth is unavailable**.
+<p align="center">
+  <strong><em>“I Know It When I See It”</em> — a visual, human-centered tool for evaluating the reliability of Vision–Language Models (VLMs) when ground truth is unavailable.</strong>
+</p>
 
-[![Conference](https://img.shields.io/badge/DIS'25-Funchal%2C%20Portugal-blue)](https://doi.org/10.1145/3715336.3735754)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)]()
-[![Python](https://img.shields.io/badge/python-3.13%2B-blue.svg)]()
-[![Backend](https://img.shields.io/badge/backend-Dash%20%2B%20Plotly-orange.svg)]()
+<p align="center">
+  <a href="https://doi.org/10.1145/3715336.3735754">
+    <img src="https://img.shields.io/badge/DIS'25-Funchal%2C%20Portugal-1e90ff?style=flat-square" alt="DIS 2025 Badge">
+  </a>
+  <img src="https://img.shields.io/badge/Best%20Paper%20Honorable%20Mention-ff69b4?style=flat-square" alt="Best Paper Honorable Mention">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Python-3.13%2B-blue.svg?style=flat-square" alt="Python 3.13+">
+  <img src="https://img.shields.io/badge/Backend-Dash%20%2B%20Plotly-orange.svg?style=flat-square" alt="Backend">
+</p>
 
 ---
 
-## Overview
+## 🧠 Overview
 
-**IKIWISI** is an interactive, human-in-the-loop framework that lets users *see* how well vision-language models align with human perception.  
-By transforming model outputs into binary heatmaps (✅ green = object present, ❌ red = object absent), IKIWISI allows users to intuitively audit model reliability through visual patterns rather than abstract metrics.
+**IKIWISI** (“I Know It When I See It”) is an interactive, human-in-the-loop framework that enables users to *see* how well vision–language models align with human perception.  
+By transforming model outputs into binary heatmaps (✅ green = object present, ❌ red = object absent), IKIWISI allows users to visually audit model reliability through intuitive perceptual patterns rather than abstract metrics.
 
 IKIWISI introduces the concept of a **“cognitive audit interface”** — a new paradigm for assessing how closely AI model perception aligns with human commonsense understanding.
+
 
 ---
 
