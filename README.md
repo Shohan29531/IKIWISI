@@ -1,3 +1,8 @@
+> 💎 **Award:** *Best Paper Honorable Mention — ACM Designing Interactive Systems (DIS’25), Funchal, Portugal*  
+> 🏅 *Presented July 2025*
+
+---
+
 <h3 align="center">👁️‍🗨️ IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision–Language Models Without Ground Truth</h3>
 
 <p align="center">
@@ -8,7 +13,7 @@
   <a href="https://doi.org/10.1145/3715336.3735754">
     <img src="https://img.shields.io/badge/DIS'25-Funchal%2C%20Portugal-1e90ff?style=flat-square" alt="DIS 2025 Badge">
   </a>
-  <img src="https://img.shields.io/badge/Best%20Paper%20Honorable%20Mention-ff69b4?style=flat-square" alt="Best Paper Honorable Mention">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Best%20Paper%20Honorable%20Mention-ff69b4?style=flat-square" alt="Best Paper Honorable Mention">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Python-3.13%2B-blue.svg?style=flat-square" alt="Python 3.13+">
   <img src="https://img.shields.io/badge/Backend-Dash%20%2B%20Plotly-orange.svg?style=flat-square" alt="Backend">
