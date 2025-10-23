@@ -79,7 +79,7 @@ IKIWISI demonstrates that humans can visually audit model reliability — bridgi
 
 ## Citation
 
-If you use IKIWISI in academic work, please cite:
+To cite IKIWISI, please use:
 
 ```
 @inproceedings{islam2025ikiwisi,
