@@ -1,5 +1,5 @@
-> 💎 **Award:** *Best Paper Honorable Mention — ACM Designing Interactive Systems (DIS’25), Funchal, Portugal*  
-> 🏅 *Presented July 2025*
+> **Award:** *Best Paper Honorable Mention — ACM Designing Interactive Systems (DIS’25), Funchal, Portugal*  
+> *Presented July 2025*
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 **IKIWISI** (“I Know It When I See It”) is an interactive, human-in-the-loop framework that enables users to *see* how well vision–language models align with human perception.  
 By transforming model outputs into binary heatmaps (✅ green = object present, ❌ red = object absent), IKIWISI allows users to visually audit model reliability through intuitive perceptual patterns rather than abstract metrics.
@@ -81,6 +81,7 @@ IKIWISI demonstrates that humans can visually audit model reliability — bridgi
 
 If you use IKIWISI in academic work, please cite:
 
+```
 @inproceedings{islam2025ikiwisi,
   title={IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth},
   author={Islam, Md Touhidul and Kabir, Imran and Reza, Md Alimoor and Billah, Syed Masum},
@@ -88,3 +89,4 @@ If you use IKIWISI in academic work, please cite:
   pages={999--1019},
   year={2025}
 }
+```
