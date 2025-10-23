@@ -1,4 +1,4 @@
-# IKIWISI: An Interactive Visual Pattern Generator
+# IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth (DIS'25 Best Paper Honorable Mention)
 
 > “I Know It When I See It” — a visual, human-centered tool for evaluating the reliability of Vision–Language Models (VLMs) **when ground truth is unavailable**.
 
@@ -29,18 +29,7 @@ IKIWISI introduces the concept of a **“cognitive audit interface”** — a ne
 | **Accessible Design** | Color-blind mode (white/black), click-to-zoom, and large-text interface. |
 | **User Feedback Integration** | Rate model performance and record qualitative insights directly in-app. |
 
----
 
-## System Architecture
-
-| Layer | Technology | Description |
-|--------|-------------|-------------|
-| **Frontend** | Plotly Dash + Bootstrap | Interactive visualization dashboard |
-| **Backend** | Python (multithreaded server) | Handles model orchestration and caching |
-| **Supported Models** | GPV-1 • BLIP • GPT-4V • Ground Truth • Random | Easily extensible via dropdown |
-| **Hardware (Ref. Implementation)** | AMD EPYC (16-core) • 128 GB RAM • 4× NVIDIA A6000 GPUs | Supports parallel inference |
-
----
 
 ## Quick Start
 
